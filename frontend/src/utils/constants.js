@@ -6,6 +6,12 @@ export const supportedChains = [
     name: "goerli",
   },
   {
+    chainId: 84531,
+    disperseAddress: "0xAe835749C19D3B50E8FC48Aa1587e84EF7739210",
+    blockExplorer: "https://basescan.org/",
+    name: "Base",
+  },
+  {
     chainId: 80001,
     disperseAddress: "0xaf6f4A737188571d128477DEe81d54Bc63De6d80",
     blockExplorer: "https://mumbai.polygonscan.com/",
